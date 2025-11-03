@@ -30,7 +30,7 @@ dolt fetch --user y_mayo_dev
 
 ```sh
 docker compose exec script bash
-dolt config --global --add user.email y_mayo_dev@gmail.com
+dolt config --global --add user.email y.mayo.dev@gmail.com
 dolt config --global --add user.name y_mayo_dev
 dolt --host dolt --no-tls --user y_mayo_dev sql
 ```
