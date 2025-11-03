@@ -1,0 +1,3 @@
+remotesapi:
+  port: 8000
+  read_only: false
